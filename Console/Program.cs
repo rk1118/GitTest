@@ -12,6 +12,7 @@ namespace Console
         {
             //Initial comment
             int a = 12;
+            int b = 13;
             //First branch code here
         }
 
