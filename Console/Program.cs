@@ -11,7 +11,7 @@ namespace Console
         static void Main(string[] args)
         {
             //Initial comment
-            
+            int a = 12;
             //First branch code here
         }
 
