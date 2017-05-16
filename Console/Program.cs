@@ -13,7 +13,7 @@ namespace Console
             //Initial comment
 
             int first = 12;
-
+            int master = 13;
         }
 
 
