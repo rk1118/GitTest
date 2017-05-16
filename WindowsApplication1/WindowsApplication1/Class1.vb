@@ -1,4 +1,4 @@
 ﻿Public Class Class1
-    Dim a As Integer
+    Dim chagedtob As Integer
 
 End Class
